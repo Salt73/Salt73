@@ -1,8 +1,33 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sultan</h1>
 
-
+<p align="center">
+  <img src="YOUR_PHOTO_URL_HERE" alt="Mohammed Sultan Photo" width="150" height="150" style="border-radius:50%; margin-bottom: 20px;" />
+</p>
 
 <h3 align="center">Passionate about Data Science, Analytics Engineering & Machine Learning</h3>
+
+<p align="center" style="font-style: italic; font-size: 18px; color: #6c757d; margin-bottom: 40px;">
+  Transforming data into actionable insights to solve real-world problems and drive impactful decisions.
+</p>
+
+---
+
+## 🌟 Core Strengths
+
+- Efficient in SQL, Python, and Machine Learning implementation  
+- Skilled in data engineering pipelines and cloud platforms  
+- Strong analytical thinking and problem-solving abilities  
+- Experienced in geospatial and time-series data analysis  
+
+---
+
+## 🎯 Key Skills
+
+[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org)  
+[![SQL](https://img.shields.io/badge/-SQL-0064a5?style=flat&logo=postgresql)](https://www.postgresql.org)  
+[![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=flat&logo=tensorflow)](https://www.tensorflow.org)  
+[![Data Engineering](https://img.shields.io/badge/-Data_Engineering-007396?style=flat&logo=hadoop)](https://hadoop.apache.org)  
+[![Visualization](https://img.shields.io/badge/-Visualization-1F77B4?style=flat&logo=tableau)](https://www.tableau.com)
 
 ---
 
@@ -74,7 +99,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🏆 GitHub Stats
@@ -97,6 +121,22 @@
 
 ---
 
+## 💼 Featured Projects
+
+- [Project 1: Flood Risk Geospatial Analysis](https://github.com/salt73/flood-risk-analysis)  
+  Spatial data modeling and predictive analytics to assess flood zones in Egypt.
+
+- [Project 2: Web Scraper for E-commerce Data](https://github.com/salt73/ecommerce-scraper)  
+  Python scraper with data cleansing and multi-source integration.
+
+---
+
+## 🎉 Fun Fact
+
+Outside of data and coding, I am an amateur night photographer fascinated by camera tech and image processing.
+
+---
+
 ## 🤝 Connect with Me
 
 <p align="left" style="font-size: 50px;">
@@ -109,4 +149,10 @@
   <a href="https://discord.gg/mOhamedaShraf#4915" target="_blank" rel="noreferrer" style="margin-right: 40px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="65" />
   </a>
+</p>
+
+---
+
+<p align="center" style="font-size:14px; color:#999;">
+Thank you for visiting my profile! Feel free to reach out for collaboration or opportunities.
 </p>
