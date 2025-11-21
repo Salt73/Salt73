@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sultan</h1>
 
-<p align="center">
-  <img src="YOUR_PHOTO_URL_HERE" alt="Mohammed Sultan Photo" width="150" height="150" style="border-radius:50%; margin-bottom: 20px;" />
-</p>
-
 <h3 align="center">Passionate about Data Science, Analytics Engineering & Machine Learning</h3>
 
 <p align="center" style="font-style: italic; font-size: 18px; color: #6c757d; margin-bottom: 40px;">
@@ -14,20 +10,30 @@
 
 ## 🌟 Core Strengths
 
-- Efficient in SQL, Python, and Machine Learning implementation  
-- Skilled in data engineering pipelines and cloud platforms  
-- Strong analytical thinking and problem-solving abilities  
-- Experienced in geospatial and time-series data analysis  
+- Strong foundation in **machine learning algorithms and implementation**  
+- Proficient in **database management and SQL querying**  
+- Skilled at **data visualization** to effectively communicate insights  
+- Experienced in **data analytics and statistical modeling**  
+- Solid grasp of foundational **statistics for data science**
 
 ---
 
 ## 🎯 Key Skills
 
-[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org)  
-[![SQL](https://img.shields.io/badge/-SQL-0064a5?style=flat&logo=postgresql)](https://www.postgresql.org)  
-[![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=flat&logo=tensorflow)](https://www.tensorflow.org)  
-[![Data Engineering](https://img.shields.io/badge/-Data_Engineering-007396?style=flat&logo=hadoop)](https://hadoop.apache.org)  
-[![Visualization](https://img.shields.io/badge/-Visualization-1F77B4?style=flat&logo=tableau)](https://www.tableau.com)
+<p>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px;">
+    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px;">
+    <img src="https://img.shields.io/badge/-SQL-0064a5?style=flat&logo=postgresql" alt="SQL" />
+  </a>
+  <a href="https://www.tableau.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px;">
+    <img src="https://img.shields.io/badge/-Data_Visualization-1F77B4?style=flat&logo=tableau" alt="Data Visualization" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 20px;">
+    <img src="https://img.shields.io/badge/-Machine_Learning-FF6F61?style=flat&logo=tensorflow" alt="Machine Learning" />
+  </a>
+</p>
 
 ---
 
@@ -116,25 +122,30 @@
 
 ---
 
+## 💼 Featured Projects
+
+- [Mojo-the-scraper](https://github.com/Salt73/Mojo-the-scraper)  
+  Just scrap it 🕸️🕷️ — A powerful and flexible web scraping tool.
+
+- [Plant-Co.-performance-analysis-Dashboard](https://github.com/Salt73/Plant-Co.-performance-analysis-Dashboard)  
+  Interactive PowerBI dashboard analyzing key performance metrics.
+
+- [Financial_Risk_Modeling](https://github.com/Salt73/Financial_Risk_Modeling)  
+  Modeling to assess and manage financial risks using data science techniques.
+
+- [Molena_V1.0](https://github.com/Salt73/Molena_V1.0)  
+  Voice assistant AI for speech-to-text in English and Arabic.
+
+---
+
 ## 📝 Articles & Knowledge Sharing
 - Regularly posting insights and tutorials on [LinkedIn](https://www.linkedin.com/in/msultann12234/)
 
 ---
 
-## 💼 Featured Projects
-
-- [Project 1: Flood Risk Geospatial Analysis](https://github.com/salt73/flood-risk-analysis)  
-  Spatial data modeling and predictive analytics to assess flood zones in Egypt.
-
-- [Project 2: Web Scraper for E-commerce Data](https://github.com/salt73/ecommerce-scraper)  
-  Python scraper with data cleansing and multi-source integration.
-
----
-
 ## 🎉 Fun Fact
 
-Outside of data and coding, I am an amateur night photographer fascinated by camera tech and image processing.
-
+Outside of coding and data, I’m a tech enthusiast who loves diving deep into PC and mobile hardware. 
 ---
 
 ## 🤝 Connect with Me
