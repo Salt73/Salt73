@@ -127,14 +127,17 @@
 - [Mojo-the-scraper](https://github.com/Salt73/Mojo-the-scraper)  
   Just scrap it 🕸️🕷️ — A powerful and flexible web scraping tool.
 
+- [Molly](https://github.com/Salt73/Molly)  
+  your cheerful AI assistant, always ready to listen, chat, and spark up smart conversations the moment you call her name!
+
 - [Plant-Co.-performance-analysis-Dashboard](https://github.com/Salt73/Plant-Co.-performance-analysis-Dashboard)  
   Interactive PowerBI dashboard analyzing key performance metrics.
 
 - [Financial_Risk_Modeling](https://github.com/Salt73/Financial_Risk_Modeling)  
   Modeling to assess and manage financial risks using data science techniques.
 
-- [Molena_V1.0](https://github.com/Salt73/Molena_V1.0)  
-  Voice assistant AI for speech-to-text in English and Arabic.
+- [Molena](https://github.com/Salt73/Molena_V1.0)  
+  your sidekick that hear what you say and write in English or Arabic.
 
 ---
 
