@@ -157,10 +157,11 @@ Outside of coding and data, I’m a tech enthusiast who loves diving deep into P
   <a href="https://linkedin.com/in/msultann12234" target="_blank" rel="noreferrer" style="margin-right: 40px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="65" />
   </a>
-  <a href="https://discord.gg/mOhamedaShraf#4915" target="_blank" rel="noreferrer" style="margin-right: 40px;">
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank" rel="noreferrer" style="margin-right: 40px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="65" />
   </a>
 </p>
+
 
 ---
 
