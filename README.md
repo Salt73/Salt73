@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sultan</h1>
 
-<p align="center">
-  <img src="YOUR_PHOTO_URL_HERE" alt="Mohammed Sultan Photo" width="150" height="150" style="border-radius:50%; margin-bottom: 20px;" />
-</p>
+
 
 <h3 align="center">Passionate about Data Science, Analytics Engineering & Machine Learning</h3>
 
