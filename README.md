@@ -38,7 +38,7 @@
 ---
 
 ## 🌱 Current Growth
-- Focusing on **Data Engineering** and advanced analytics skills
+- Focusing on **Data Science** and advanced analytics skills
 
 ---
 
