@@ -79,9 +79,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="80" height="80" />
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="80" height="80" />
-  </a>
+  
   <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="80" height="80" />
   </a>
@@ -90,12 +88,6 @@
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://images.seeklogo.com/logo-png/22/1/tableau-software-logo-png_seeklogo-222998.png" alt="Tableau" width="80" height="80" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80" />
