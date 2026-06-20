@@ -85,20 +85,17 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="80" height="80" />
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="80" height="80" />
+  </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://images.seeklogo.com/logo-png/22/1/tableau-software-logo-png_seeklogo-222998.png" alt="Tableau" width="320" height="320" />
+    <img src="https://images.seeklogo.com/logo-png/22/1/tableau-software-logo-png_seeklogo-222998.png" alt="Tableau" width="80" height="80" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80" />
   </a>
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="80" height="80" />
-  </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80" />
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="80" height="80" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80" />
