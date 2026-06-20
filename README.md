@@ -86,7 +86,7 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="80" height="80" />
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="320" height="320" />
+    <img src="https://images.seeklogo.com/logo-png/22/1/tableau-software-logo-png_seeklogo-222998.png" alt="Tableau" width="320" height="320" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80" />
